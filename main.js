@@ -92,4 +92,6 @@ console.log(restaurantCopy);
 
 // Qual è il metodo migliore per clonare l’oggetto chef, e perché?
 // Il metodo migliore per copiare l'oggetto chef è lo spread operator: {...chef} in quanto è in grado di copiare le funzioni.
+
 // Qual è il metodo migliore per clonare l’oggetto restaurant, e perché?
+// Il metodo migliore per copiare l'oggetto restaurant è lo structuredClone in quanto può effettuare una deep copy e può copiare oggetti annidati e complessi.
